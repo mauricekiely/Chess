@@ -1,0 +1,5 @@
+#Screen Dimensions 
+WIDTH, HEIGHT = 640, 640
+ROWS, COLS = 8, 8
+
+SQ_SIZE = WIDTH//COLS
